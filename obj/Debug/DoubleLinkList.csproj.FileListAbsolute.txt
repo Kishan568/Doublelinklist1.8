@@ -1,0 +1,8 @@
+E:\Assisted project\Section 8\DoubleLinkList\bin\Debug\DoubleLinkList.exe.config
+E:\Assisted project\Section 8\DoubleLinkList\bin\Debug\DoubleLinkList.exe
+E:\Assisted project\Section 8\DoubleLinkList\bin\Debug\DoubleLinkList.pdb
+E:\Assisted project\Section 8\DoubleLinkList\obj\Debug\DoubleLinkList.csproj.AssemblyReference.cache
+E:\Assisted project\Section 8\DoubleLinkList\obj\Debug\DoubleLinkList.csproj.SuggestedBindingRedirects.cache
+E:\Assisted project\Section 8\DoubleLinkList\obj\Debug\DoubleLinkList.csproj.CoreCompileInputs.cache
+E:\Assisted project\Section 8\DoubleLinkList\obj\Debug\DoubleLinkList.exe
+E:\Assisted project\Section 8\DoubleLinkList\obj\Debug\DoubleLinkList.pdb
